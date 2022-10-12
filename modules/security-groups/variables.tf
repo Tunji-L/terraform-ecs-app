@@ -1,0 +1,1 @@
+variable "vpc_id" {} # the name from the output of vpc module
