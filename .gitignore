@@ -1,0 +1,4 @@
+ecs-app/.terraform
+ecs-app/.terraform.lock.hcl
+ecs-app/.DS_Store
+.DS_Store
